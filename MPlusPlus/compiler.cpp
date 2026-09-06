@@ -1093,24 +1093,20 @@ void generateLine(
         if (afterName.empty())
         {
             generated
+                << returnLabel
+                << ":\n";
+            generated
                 << "    mpp_return_to = "
                 << callSiteId
                 << ";\n";
-
             generated
                 << "    mpp_reload = \""
                 << escapeCppString(blockName)
                 << "\";\n";
-
             generated
                 << "    goto mpp_restart;\n";
-
-            generated
-                << returnLabel
-                << ":\n";
-
             return;
-        }
+}
 
 
         // ====================================================
