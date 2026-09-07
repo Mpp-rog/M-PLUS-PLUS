@@ -1,4 +1,12 @@
 # M++ Language Documentation
+"
+WARNING :THIS WAS MADE BY AI "Cluade" MAY HAVE BUGS 
+
+i dont think of myself as a programer or coder i know a bit of python and may be able to recreate this as human slop and not ai slop
+
+make fun of me all you want, its fine.
+
+"
 
 > **M++ — "Scratch for Writers"**
 > A simple programming language that compiles to C++.
