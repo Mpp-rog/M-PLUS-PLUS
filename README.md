@@ -1,6 +1,6 @@
 # M++ Language Documentation
 "
-WARNING :THIS WAS MADE BY AI "Cluade" MAY HAVE BUGS 
+WARNING :THIS WAS MADE BY AI "Claude" MAY HAVE BUGS 
 
 i dont think of myself as a programer or coder i know a bit of python and may be able to recreate this as human slop and not ai slop
 
